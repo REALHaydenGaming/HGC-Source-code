@@ -11,7 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - 10+ Song's charted
 - based Engine is some what out
 - still trying to firgue out how to make folder's here on github
-- Download lock for 1.0 (useful for later verision's of the mod)(learned how to do that shit fast and quickly after making this github page :OOOO)
+- Download lock for 1.0 (useful for later verision's of the mod)(learned how to do that shit fast and quickly after finding out project fnf has a cool gitverison.txt :OOOO)
 - Added the unused stev gun sprite (cuz why the fuck not)
 - maybe 6 bambi songs charted, fuck you antagonism
 - No background's, cry about it :D
@@ -39,7 +39,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Vibing got a little bit of charting change
 
 ## 6 - 07 - 2022 : Playtester alpha log
-Vibing is added
-added more stuff for later use
+### Additation's
+- Vibing is added
+### Changes
+- added more stuff for later use
 
-## 6 - 06 - 2022 : i'ma edit later
+## 6 - 06 - 2022 : PRE-ALPHA
+### Additation's
+- Alpha-House is added
+- Upheveal is added
+- The worst fucking camera movement is here
+- Mod's first intinal build
